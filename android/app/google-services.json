@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "896415310871",
+    "firebase_url": "https://cupertinoapp-bbbeb.firebaseio.com",
+    "project_id": "cupertinoapp-bbbeb",
+    "storage_bucket": "cupertinoapp-bbbeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896415310871:android:f1696e76af5fc0e4e22852",
+        "android_client_info": {
+          "package_name": "com.eokinyi35.cupertinoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896415310871-1kupn6h0lu1iu7ucus54mas0pp2sf9hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ5DtrNc1KqU_znIWq3rKjdN0pe61B3XY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896415310871-1kupn6h0lu1iu7ucus54mas0pp2sf9hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
